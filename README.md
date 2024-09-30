@@ -16,7 +16,7 @@ Atualmente, estou expandindo meus conhecimentos Desenvolvimento de Software, Red
 
 Meu Hobby é jogar, colecionar e desenvolver games.
 
-## Perfil do Linkedin (#OpenToWork)
+## Perfil do Linkedin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com.br/in/brunobricce)
 
